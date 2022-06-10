@@ -1,22 +1,22 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-### Hi there, We are [Tech Introspectors](http://techintrospectors.tech/) 👋
+### Hi there, We are [Tech Introspectors](http://teamintrospectors.tech/) 👋
 
-[![Website](https://img.shields.io/website?label=techintrospectors.tech&style=for-the-badge&url=https%3A%2F%2Ftechintrospectors.tech)](http://techintrospectors.tech/)
+[![Website](https://img.shields.io/website?label=techintrospectors.tech&style=for-the-badge&url=https%3A%2F%2Ftechintrospectors.tech)](http://teamintrospectors.tech/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Tech_Introspect?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTech_Introspect&screen_name=Tech_Introspect)
 ![Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQV5B4b-PIXkzQq7XUSR_2A?style=for-the-badge)
 
 ## We are a team of Tech enthusiasts who code for change!
 
 - ❤️ We are on YouTube now: [Subscribe!](https://www.youtube.com/channel/UCQV5B4b-PIXkzQq7XUSR_2A)!
-- 🌱 We're currently working on Web Development, Machine Learning and Data Science projects.
+- 🌱 We're currently working on Web/ Mobile App Development, Machine Learning and Data Science projects.
 - ✨ Do reach out to us for any help
-- 🥅 2021 Goals: Launch Java, Web Development bootcamps on YouTube!
+- 🥅 2022 Goals: Launch Java, Web Development bootcamps on YouTube!
 - ⚡ Fun fact: We are two undergraduates who love to code <3
 
 ### Connect with us:
 
-[<img align="left" alt="Tech Introspectors" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](techintrospectors.tech)
+[<img align="left" alt="Tech Introspectors" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](teamintrospectors.tech)
 [<img align="left" alt="Tech Introspectors | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCQV5B4b-PIXkzQq7XUSR_2A)
 [<img align="left" alt="Tech Introspectors | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Tech_Introspect)
 
@@ -45,6 +45,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Leaf Disease Identification using Flutter and TensorFlow](https://www.youtube.com/watch?v=4F9mAyWCaTw&t=1s)
 - [Basic Banking web application using Next.js & MongoDB](https://www.youtube.com/watch?v=N3TUHfimNJY)
 - [Basic Banking Mobile Application using Flutter and SQLite](https://www.youtube.com/watch?v=YWO40qELFiU)
 - [Function Overloading vs Function overriding in C++](https://www.youtube.com/watch?v=MZwy-KmwMu8)
@@ -59,14 +60,14 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Must have free apps for Android users](https://techintrospectors.tech/articles/art-%20andapps03-2021.html)
-- [IBM Z Mainframes - Straight out of Future!](https://techintrospectors.tech/articles/art-mainframe.html)
-- [Here's why you SHOULD use LinkedIn even when you aren't looking for a job.](https://techintrospectors.tech/articles/art-WhyLinkedIn.html)
-- [Ultimate Roadmap for Computer Science](https://techintrospectors.tech/articles/proj-CSroadmap.html)
-- [Deploy PHP apps with Database in Heroku within 15 minutes](https://techintrospectors.tech/articles/art-herokuphp.html)
+- [5 Must have free apps for Android users](https://dantusaikamal.github.io/TechIntrospectors.tech/)articles/art-%20andapps03-2021.html)
+- [IBM Z Mainframes - Straight out of Future!](https://dantusaikamal.github.io/TechIntrospectors.tech/articles/art-mainframe.html)
+- [Here's why you SHOULD use LinkedIn even when you aren't looking for a job.](https://dantusaikamal.github.io/TechIntrospectors.tech/articles/art-WhyLinkedIn.html)
+- [Ultimate Roadmap for Computer Science](https://dantusaikamal.github.io/TechIntrospectors.tech/articles/proj-CSroadmap.html)
+- [Deploy PHP apps with Database in Heroku within 15 minutes](https://dantusaikamal.github.io/TechIntrospectors.tech/articles/art-herokuphp.html)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://techintrospectors.tech/)
+➡️ [more blog posts...](https://dantusaikamal.github.io/TechIntrospectors.tech/)
 
 ---
 
